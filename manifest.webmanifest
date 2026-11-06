@@ -1,0 +1,25 @@
+{
+  "name": "Bénéfices secondaires — Ombaliz Thérapie",
+  "short_name": "Ombaliz",
+  "description": "Psychoéducation et questionnaire des 40 bénéfices secondaires",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f9f9",
+  "theme_color": "#246c71",
+  "lang": "fr",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
